@@ -712,19 +712,6 @@ The fact that a university adopted it for permanent use after our pilot suggests
 
 ---
 
-Future research directions include:
-
-- **Mobile Optimization**: Adapting the system for smartphone deployment using model compression and lightweight architectures
-- **Automatic Template Generation**: Developing AI-powered layout analysis to automatically create templates for new card formats
-- **Enhanced Anti-Spoofing**: Incorporating depth sensing, infrared imaging, or active liveness detection for improved security
-- **Multi-Card Detection**: Enabling simultaneous processing of multiple IDs for batch verification scenarios
-- **Accessibility Features**: Adding voice guidance and haptic feedback for visually impaired users
-- **Blockchain Integration**: Exploring distributed ledger technology for tamper-proof verification logging
-
-As identity verification becomes increasingly critical across sectors, automated systems that balance accuracy, privacy, and accessibility will play vital roles in shaping secure, efficient, and user-friendly authentication infrastructure. This work demonstrates that sophisticated ID card detection capabilities can be democratized through open-source implementations, making advanced verification technology accessible to organizations of all sizes.
-
----
-
 ## REFERENCES
 
 [1] S. Patel and A. Agrawal, "Automated ID card verification systems: A comprehensive review," *International Journal of Computer Applications*, vol. 182, no. 41, pp. 23–29, 2019.
